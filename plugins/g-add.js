@@ -56,8 +56,9 @@ handler.help = ['add', '+'].map(v => v + ' @user')
 handler.tags = ['group']
 handler.command = /^(add|\+)$/i
 
-handler.admin = true
-handler.group = true
+handler.admin = false
+handler.group = false
+handler.premium = true
 handler.botAdmin = true
 handler.fail = null
 
