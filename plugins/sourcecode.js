@@ -7,12 +7,10 @@ let handler = async (m, { conn }) => {
     
     let txt = `
 Bot ini menggunakan script github
+📮 Family-md
 
-https://github.com/FokusDotId/Family-MD.git
-
-pliss follow dan kasih ✨⭐⭐🌟 ya pak!
-
-My Github: https://github.com/FokusDotId
+Recode kembali
+My Github: https://github.com/krizynofc
 
 `
      conn.reply(m.chat, txt, m)
