@@ -25,10 +25,6 @@ const defaultMenu = {
   body: '├ %cmd %islimit %isPremium',
   footer: '└────\n',
   after: `
-Jasa run bot
-pastinya On 24jam
-Chat 👇🏻
-wa.me/62895327934887?text=banh+jasa+run+bot
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
