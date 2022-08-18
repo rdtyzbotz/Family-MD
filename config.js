@@ -43,8 +43,8 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/mhdfakri_"
+global.dtu = 'GROUP'
+global.urlnya = "https://chat.whatsapp.com/ElWAM7irWS13d4R29HpbV1"
 
 //============= callButtons =============//
 global.dtc = 'RUN BOT'
