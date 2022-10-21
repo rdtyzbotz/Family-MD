@@ -58,12 +58,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = 'Cadbury Ensem'
-global.author = 'by KrizynOfc'
+global.packname = 'Bot Wa'
+global.author = 'by GilzzOfc'
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy KrizynOfc'
+        global.colong2 = 'ʙy GilzzOfc'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
